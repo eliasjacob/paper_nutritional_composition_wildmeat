@@ -27,7 +27,7 @@ This project analyzes and imputes missing values in a dataset of wild meat nutri
 ## Setup and Installation
 1. **Clone the repository**
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/eliasjacob/paper_nutritional_composition_wildmeat.git
    cd paper_nutritional_composition_wildmeat
    ```
 2. **Install dependencies** (using Poetry)
