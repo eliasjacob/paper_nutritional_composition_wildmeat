@@ -1,0 +1,77 @@
+taxon_tfmed,genus,classificacao,pais_coleta,fe,mn,se,zn,k,mg,na,ptn,lip,w3,w6,partes_tfmed,classificacao_cat,pais_coleta_cat,partes_tfmed_cat,taxon_tfmed_cat,genus_cat
+SS,sus,mamifero,Alemanha,0.0019,,1.3e-05,0.0024,,,,22.5,2.1,0.0777,0.5712,Musculo,1,1,0,24,21
+CC1,capreolus,mamifero,Alemanha,0.00321,,4e-06,0.00235,,,,23.5,1.0,0.11,0.266,Musculo,1,1,0,4,5
+EQ,equus,mamifero,África do Sul,,,,,,,,22.29,1.47,3.22e-05,5.39e-06,Musculo,1,14,0,12,11
+CE,cervus,mamifero,Polônia,,7.59e-05,4.62e-06,0.00495,,,,,,,,Musculo,1,13,0,7,6
+CE,cervus,mamifero,Polônia,,0.000396,6.6e-06,0.0033,,,,,,,,Visceras,1,13,1,7,6
+CE,cervus,mamifero,Polônia,,0.0002178,0.000132,0.00429,,,,,,,,Visceras,1,13,1,7,6
+CE,cervus,mamifero,EUA,0.015131,0.000214,,0.00204,8.2e-08,0.015988,,,,,,Visceras,1,4,1,7,6
+CE,cervus,mamifero,EUA,0.013225,0.000211,,0.001924,1.4e-08,0.016113,,,,,,Visceras,1,4,1,7,6
+SR,scolopax,ave,Italia,,,,,,,,24.0,2.75,0.00019684,1.57,Musculo,0,7,0,23,19
+SR,scolopax,ave,Italia,,,,,,,,21.05,2.6,0.00017492,1.04,Musculo,0,7,0,23,19
+CE,cervus,mamifero,Polônia,0.0038,,,,,,,21.54,0.16,,,Musculo,1,13,0,7,6
+CC1,capreolus,mamifero,Polônia,0.003531,,,,,,,23.92,0.1,,,Musculo,1,13,0,4,5
+PA,phacochoerus,mamifero,Africa do Sul,,,,,,,,33.25,1.18,0.000128,0.000412,Musculo,1,0,0,16,17
+PA,phacochoerus,mamifero,Africa do Sul,,,,,,,,31.64,1.12,0.000131,0.000338,Musculo,1,0,0,16,17
+CE,cervus,mamifero,Nova Zelândia,0.00341,1.7e-05,,0.00201,0.365,0.037,0.12,22.7,0.75,0.14868,0.17818,Musculo,1,11,0,7,6
+CE,cervus,mamifero,Espanha,0.00295,1.4e-05,,0.00392,0.297,0.022,0.125,24.1,0.51,0.09856,0.27552,Musculo,1,5,0,7,6
+CP1,columba,ave,Espanha,0.00535,,,0.00073,,,,,,,,Musculo,0,5,0,8,8
+TP2,turdus,ave,Espanha,0.00508,,,0.00061,,,,,,,,Musculo,0,5,0,27,24
+ST,streptopelia,ave,Espanha,0.00419,,,0.00071,,,,,,,,Musculo,0,5,0,25,20
+ST,streptopelia,ave,Espanha,0.00293,,,0.000236,,,,,,,,Musculo,0,5,0,25,20
+CP1,columba,ave,Espanha,0.00258,,,0.000299,,,,,,,,Musculo,0,5,0,8,8
+TP2,turdus,ave,Espanha,0.00235,,,0.00016,,,,,,,,Musculo,0,5,0,27,24
+AA,alces,mamifero,Canadá,,,,,,,,21.84,1.74,,,Musculo,1,3,0,0,1
+BC,branta,ave,Canadá,,,,,,,,24.78,3.63,,,Musculo,0,3,0,3,3
+AP2,anas,ave,Canadá,,,,,,,,23.61,3.54,,,Musculo,0,3,0,2,2
+SC,syncerus,mamifero,África do sul,,0.000567,2.45e-05,,,,,,,,,Visceras,1,15,1,22,22
+SC,syncerus,mamifero,África do sul,,0.00056,3.43e-05,,,,,,,,,Visceras,1,15,1,22,22
+SC,syncerus,mamifero,África do sul,,0.000518,3.43e-05,,,,,,,,,Visceras,1,15,1,22,22
+SC,syncerus,mamifero,África do sul,,0.00049,2.66e-05,,,,,,,,,Visceras,1,15,1,22,22
+OV,odocoileus,mamifero,Estados Unidos da América,0.018227,0.000387,9.8e-05,0.003569,0.24924,0.018805,0.086821,,,,,Visceras,1,6,1,15,14
+OH,odocoileus,mamifero,Estados Unidos da América,0.015747,0.000403,5e-05,0.004353,0.24437,0.018605,0.09539,,,,,Visceras,1,6,1,14,14
+OH,odocoileus,mamifero,Estados Unidos da América,0.015128,0.00034,7.8e-05,0.004056,0.23058,0.018184,0.098926,,,,,Visceras,1,6,1,14,14
+OV,odocoileus,mamifero,Estados Unidos da América,0.014043,0.000407,6.4e-05,0.003909,0.25371,0.018329,0.093343,,,,,Visceras,1,6,1,15,14
+SS,sus,mamifero,Letónia ,0.000344,4e-05,,0.000373,,0.001996,,22.92,2.82,0.081498,0.391698,Musculo,1,10,0,24,21
+AA,alces,mamifero,Letónia ,0.000326,2e-05,,0.000242,,0.002004,,22.72,1.33,0.090573,0.156009,Musculo,1,10,0,0,1
+CE,cervus,mamifero,Letónia ,0.00023,3e-05,,0.000233,,0.002105,,22.36,1.9,0.1178,0.32395,Musculo,1,10,0,7,6
+CC1,capreolus,mamifero,Letónia ,0.000206,3e-05,,0.00031,,0.002076,,22.82,1.59,0.130857,0.270936,Musculo,1,10,0,4,5
+TT,tayassu,mamifero,Peru,,,,,,,,21.4,,,,Musculo,1,12,0,28,23
+CD,chelonoidis,reptil,Peru,,,,,,,,21.4376,,,,Musculo,2,12,0,6,7
+CP2,cuniculus,mamifero,Peru,,,,,,,,21.4038,,,,Musculo,1,12,0,9,9
+MA,mazama,mamifero,Peru,,,,,,,,22.8636,,,,Musculo,1,12,0,13,13
+CE,cervus,mamifero,Espanha,0.00337,1.7e-05,,0.001832,0.289,0.03,0.109,,,0.024582,0.102544,Musculo,1,5,0,7,6
+CE,cervus,mamifero,Espanha,0.003142,1.8e-05,,0.001641,0.279,0.038,0.121,,,0.012156,0.041952,Musculo,1,5,0,7,6
+CE,cervus,mamifero,Espanha,0.002731,2.2e-05,,0.001362,0.288,0.034999,0.105,,,0.00583,0.01911,Musculo,1,5,0,7,6
+TT,tayassu,mamifero,Brasil,,,,,,,,22.06,0.5,,,Musculo,1,2,0,28,23
+TT,tayassu,mamifero,Brasil,,,,,,,,22.0,0.61,,,Musculo,1,2,0,28,23
+TT,tayassu,mamifero,Brasil,,,,,,,,22.3,0.49,,,Musculo,1,2,0,28,23
+TT,tayassu,mamifero,Brasil,,,,,,,,22.46,0.41,,,Musculo,1,2,0,28,23
+TT,tayassu,mamifero,Brasil,,,,,,,,24.81,0.34,,,Musculo,1,2,0,28,23
+TT,tayassu,mamifero,Brasil,,,,,,,,20.68,0.81,,,Musculo,1,2,0,28,23
+TT,tayassu,mamifero,Brasil,,,,,,,,19.81,0.77,,,Musculo,1,2,0,28,23
+TT,tayassu,mamifero,Brasil,,,,,,,,22.62,0.76,,,Musculo,1,2,0,28,23
+TT,tayassu,mamifero,Brasil,,,,,,,,23.56,0.66,,,Musculo,1,2,0,28,23
+TT,tayassu,mamifero,Brasil,,,,,,,,20.06,0.52,,,Musculo,1,2,0,28,23
+SS,sus,mamifero,Itália,,,,,,,,21.2,3.13,0.080128,0.875461,Musculo,1,8,0,24,21
+SS,sus,mamifero,Itália,,,,,,,,20.67,2.66,0.093366,0.70091,Musculo,1,8,0,24,21
+SS,sus,mamifero,Itália,,,,,,,,21.84,2.54,0.071628,0.685292,Musculo,1,8,0,24,21
+TP1,tayassu,mamifero,Peru,,,,0.00037719,0.1570768,,0.0284185,24.84,3.61,,,Musculo,1,12,0,26,23
+CP2,cuniculus,mamifero,Peru,,,,0.00028207,0.1238664,,0.0261632,27.78,1.55,,,Musculo,1,12,0,9,9
+PQ,pecari,mamifero,Peru,,,,0.00035875,0.1378125,,0.0245,27.75,0.64,,,Musculo,1,12,0,19,15
+CD,chelonoidis,reptil,Peru,,,,0.00018801,0.063328,,0.0106866,14.7,0.29,,,Musculo,2,12,0,6,7
+PE,podocnemis,reptil,Brasil,,,,,,,,22.58,1.9,,,Musculo,2,2,0,18,18
+PE,podocnemis,reptil,Brasil,,,,,,,,22.2,1.62,,,Musculo,2,2,0,18,18
+PE,podocnemis,reptil,Brasil,,,,,,,,22.9,1.3,,,Musculo,2,2,0,18,18
+PE,podocnemis,reptil,Brasil,,,,,,,,13.85,7.87,,,Visceras,2,2,1,18,18
+PD,peltocephalus,reptil,Brasil,,,,,,,,18.81,3.53,,,Visceras,2,2,1,17,16
+PQ,pecari,mamifero,Brasil,,,,,,,,19.45,1.46,,,Musculo,1,2,0,19,15
+DL,dasyprocta,mamifero,Brasil,,,,,,,,19.3,1.21,,,Musculo,1,2,0,11,10
+PS,podocnemis,reptil,Brasil,,,,,,,,23.81,5.56,,,Musculo,2,2,0,20,18
+CC2,caiman,reptil,Brasil,,,,,,,,21.87,0.46,,,Musculo,2,2,0,5,4
+AP1,agouti,mamifero,Brasil,,,,,,,,19.92,2.66,,,Musculo,1,2,0,1,0
+PE,podocnemis,reptil,Brasil,,,,,,,,21.17,1.1,,,Musculo,2,2,0,18,18
+PU,podocnemis,reptil,Brasil,,,,,,,,20.3,1.68,,,Musculo,2,2,0,21,18
+MA,manzama,mamifero,Brasil,,,,,,,,23.95,1.1,,,Musculo,1,2,0,13,12
+CY,caiman,reptil,Brasil,,,,,,,,21.93,0.54,,,Musculo,2,2,0,10,4
+CY,caiman,reptil,Brasil,,,,,,,,21.83,5.43,,,Musculo,2,2,0,10,4
